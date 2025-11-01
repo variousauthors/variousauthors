@@ -1,4 +1,4 @@
-Curiouser and curiouser, down the rabbit hole.
+The deeper I go the deeper I want to go.
 - building [The Valley][0], a JRPG implemented in z80 assembly
 - [source code for Ark][1], commercial puzzle game implemented in z80 assembly
   - buy it [here][4], or [here][5]!?
