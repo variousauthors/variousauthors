@@ -1,16 +1,14 @@
-## Hi there 👋
+Curiouser and curiouser, down the rabbit hole.
+- building [The Valley][0], a JRPG implemented in z80 assembly
+- [source code for Ark][1], commercial puzzle game implemented in z80 assembly
+  - buy it [here][4], or [here][5]!?
+- [a simple x86 emulator][2] built as part of Computer, Enhance!
+- learning [firmware development][3] for modern MCUs
 
-<!--
-**variousauthors/variousauthors** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[0]: https://github.com/variousauthors/gameboy-the-valley
+[1]: https://github.com/variousauthors/gameboy-hello-world/tree/sokoban-clone-done
+[2]: https://github.com/variousauthors/computer_enhance/blob/main/perfaware/part1/src/main.c
+[3]: https://github.com/variousauthors/ELEX3305-microcontrollers
+[4]: https://ferrantecrafts.com/products/ark
+[5]: http://www.game-tanteidan.com/eshopdo/refer/refer.php?sid=ns90262&cid=0&scid=&mcid=&me=&vmode=&view_id=165004011000
