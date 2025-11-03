@@ -5,6 +5,8 @@ The deeper I go the deeper I want to go.
 - [a simple x86 emulator][2] built as part of Computer, Enhance!
 - learning [firmware development][3] for modern MCUs
 
+In 2025, I presented an intro to game boy assembly programming ([video][6]).
+
 
 [0]: https://github.com/variousauthors/gameboy-the-valley
 [1]: https://github.com/variousauthors/gameboy-hello-world/tree/sokoban-clone-done
@@ -12,3 +14,4 @@ The deeper I go the deeper I want to go.
 [3]: https://github.com/variousauthors/ELEX3305-microcontrollers
 [4]: https://ferrantecrafts.com/products/ark
 [5]: http://www.game-tanteidan.com/eshopdo/refer/refer.php?sid=ns90262&cid=0&scid=&mcid=&me=&vmode=&view_id=165004011000
+[6]: https://www.youtube.com/watch?v=3avwN0QOvYg
