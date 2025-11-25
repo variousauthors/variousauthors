@@ -7,6 +7,8 @@ The deeper I go the deeper I want to go.
 
 In 2025, I presented an intro to game boy assembly programming ([video][6]).
 
+I have been making videogames since 2013, here is a playlist with [videos of a few of them][7].
+
 
 [0]: https://github.com/variousauthors/gameboy-the-valley
 [1]: https://github.com/variousauthors/gameboy-hello-world/tree/sokoban-clone-done
@@ -15,3 +17,4 @@ In 2025, I presented an intro to game boy assembly programming ([video][6]).
 [4]: https://ferrantecrafts.com/products/ark
 [5]: http://www.game-tanteidan.com/eshopdo/refer/refer.php?sid=ns90262&cid=0&scid=&mcid=&me=&vmode=&view_id=165004011000
 [6]: https://www.youtube.com/watch?v=3avwN0QOvYg
+[7]: https://www.youtube.com/watch?v=n5GveVie20k&list=PLdMohZKHWvgDBg4CNUcL5mzeSHSWXyLs0&index=8
