@@ -17,4 +17,4 @@ I have been making videogames since 2013, here is a playlist with [videos of a f
 [4]: https://ferrantecrafts.com/products/ark
 [5]: http://www.game-tanteidan.com/eshopdo/refer/refer.php?sid=ns90262&cid=0&scid=&mcid=&me=&vmode=&view_id=165004011000
 [6]: https://www.youtube.com/watch?v=3avwN0QOvYg
-[7]: https://www.youtube.com/watch?v=n5GveVie20k&list=PLdMohZKHWvgDBg4CNUcL5mzeSHSWXyLs0&index=8
+[7]: https://www.youtube.com/playlist?list=PLdMohZKHWvgDBg4CNUcL5mzeSHSWXyLs0
